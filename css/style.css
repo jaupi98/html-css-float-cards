@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Helvetica, Sans-Serif;
+
+}
+body{
+    margin: 20px 300px;
+}
+header{
+    text-align: center;
+    color: rgb(226, 43, 144);
+    font-size: larger;
+}
